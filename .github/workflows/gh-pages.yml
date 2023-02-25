@@ -40,4 +40,4 @@ jobs:
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./out
-          external_repository: KeijiTokunaga/KeijiTokunaga.github.io                              
+          external_repository: Remix/KeijiTokunaga.github.io                              
